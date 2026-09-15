@@ -1,0 +1,43 @@
+information_id,information_item,response_category,response_count,percentage
+1,Description of course/programme (e.g. what subject/topics will be covered),Very useful,810,77.0
+2,"Location of where the course/programme takes place (e.g. college campus, location of provider)",Very useful,614,58.0
+3,How to get to the location of the course/programme by car,Very useful,229,22.0
+4,How to get to the location of the course/programme by public transport,Very useful,394,37.0
+5,Availability and cost of parking at the provider,Very useful,210,20.0
+6,The length of the course/programme (e.g. the number of months and years it lasts),Very useful,672,64.0
+7,The number of weekly hours of teaching on the course/programme,Very useful,517,49.0
+1,Description of course/programme (e.g. what subject/topics will be covered),Somewhat useful,147,14.0
+2,"Location of where the course/programme takes place (e.g. college campus, location of provider)",Somewhat useful,254,24.0
+3,How to get to the location of the course/programme by car,Somewhat useful,247,23.0
+4,How to get to the location of the course/programme by public transport,Somewhat useful,305,29.0
+5,Availability and cost of parking at the provider,Somewhat useful,250,24.0
+6,The length of the course/programme (e.g. the number of months and years it lasts),Somewhat useful,246,23.0
+7,The number of weekly hours of teaching on the course/programme,Somewhat useful,345,33.0
+1,Description of course/programme (e.g. what subject/topics will be covered),Useful,77,7.0
+2,"Location of where the course/programme takes place (e.g. college campus, location of provider)",Useful,144,14.0
+3,How to get to the location of the course/programme by car,Useful,321,31.0
+4,How to get to the location of the course/programme by public transport,Useful,236,22.0
+5,Availability and cost of parking at the provider,Useful,269,26.0
+6,The length of the course/programme (e.g. the number of months and years it lasts),Useful,111,11.0
+7,The number of weekly hours of teaching on the course/programme,Useful,138,13.0
+1,Description of course/programme (e.g. what subject/topics will be covered),Not particularly useful,11,1.0
+2,"Location of where the course/programme takes place (e.g. college campus, location of provider)",Not particularly useful,34,3.0
+3,How to get to the location of the course/programme by car,Not particularly useful,187,18.0
+4,How to get to the location of the course/programme by public transport,Not particularly useful,94,9.0
+5,Availability and cost of parking at the provider,Not particularly useful,203,19.0
+6,The length of the course/programme (e.g. the number of months and years it lasts),Not particularly useful,16,2.0
+7,The number of weekly hours of teaching on the course/programme,Not particularly useful,35,3.0
+1,Description of course/programme (e.g. what subject/topics will be covered),Not useful at all,1,0.1
+2,"Location of where the course/programme takes place (e.g. college campus, location of provider)",Not useful at all,2,0.19
+3,How to get to the location of the course/programme by car,Not useful at all,59,6.0
+4,How to get to the location of the course/programme by public transport,Not useful at all,17,2.0
+5,Availability and cost of parking at the provider,Not useful at all,95,9.0
+6,The length of the course/programme (e.g. the number of months and years it lasts),Not useful at all,2,0.19
+7,The number of weekly hours of teaching on the course/programme,Not useful at all,10,1.0
+1,Description of course/programme (e.g. what subject/topics will be covered),Don't know,6,1.0
+2,"Location of where the course/programme takes place (e.g. college campus, location of provider)",Don't know,4,0.38
+3,How to get to the location of the course/programme by car,Don't know,9,1.0
+4,How to get to the location of the course/programme by public transport,Don't know,6,1.0
+5,Availability and cost of parking at the provider,Don't know,25,2.0
+6,The length of the course/programme (e.g. the number of months and years it lasts),Don't know,5,0.48
+7,The number of weekly hours of teaching on the course/programme,Don't know,7,1.0
