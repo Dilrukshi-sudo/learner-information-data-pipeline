@@ -78,6 +78,37 @@ python src/load.py
 python visualisations/plot_q1.py
 python visualisations/plot_improvements.py
 
+## Project Screenshots
+
+### PostgreSQL Database
+
+The transformed learner survey data is loaded into PostgreSQL using a
+relational schema consisting of information items, response categories,
+and Q1 responses.
+
+![PostgreSQL database tables](screenshots/adminer-database-tables.png)
+
+### SQL Analysis
+
+SQL joins are used to combine the response data with the information
+items and response categories.
+
+![SQL query results](screenshots/sql-query-results.png)
+
+### Learner Information Considered "Very Useful"
+
+This visualisation shows which types of information learners considered
+most useful when deciding which course or provider to choose.
+
+![Very useful information](screenshots/very-useful-chart.png)
+
+### Full Response Distribution
+
+The stacked bar chart shows the complete distribution of responses for
+each information type.
+
+![Full response distribution](screenshots/response-distribution.png)
+
 ## Findings
 Key takeaways based on user responses regarding post-16 education information usefulness will be detailed here. Initial charts highlight specific gaps where information items received higher "not useful" or uncertain ratings.
 
